@@ -1,0 +1,9 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# If they are inside subfolders
+**/desktop.ini
+**/[Dd]esktop.ini
